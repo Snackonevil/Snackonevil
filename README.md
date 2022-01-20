@@ -8,6 +8,22 @@ Portfolio: https://snackonevil.github.io/portfolio/
 ---
 ## Repositories
 
+### Meteo-Melodies
+
+### React Feedback App
+
+### Team Profile Generator
+
+### README Generator
+
+### Weather Dashboard
+
+### Code Quiz
+
+### Workday Planner
+
+### Employee Tracker
+
 
 
 
