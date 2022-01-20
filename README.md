@@ -1,14 +1,20 @@
 # Kevin Lacson
+
 - 👋 Hi, I’m @Snackonevil (It's an anagram of my name)
 - 👀 I’m interested in naps, crosswords, woodworking
 - 🌱 I’m currently learning MERN stack
 - 📫 How to reach me: lacsonky@gmail.com
 
 Portfolio: https://snackonevil.github.io/portfolio/
+
 ---
-## Repositories
+
+## Some of My Projects
 
 ### Meteo-Melodies
+About:  
+[APP](https://acuson.github.io/meteo-melodies/) | [CODE](https://github.com/acuson/meteo-melodies)  
+
 
 ### React Feedback App
 
