@@ -35,7 +35,8 @@ Portfolio: https://snackonevil.github.io/portfolio/
   [CODE](https://github.com/Snackonevil/team-profile-generator) | [Walkthrough](https://watch.screencastify.com/v/HYO1PCXDvRDGbtik8N2Q)
 
 - ### Taking Care of Business
-  About:
+  About:  
+  [CODE](https://github.com/Snackonevil/taking-care-of-business) | Walkthrough
 
 - ### README Generator
   About:  
