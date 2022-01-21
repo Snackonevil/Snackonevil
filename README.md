@@ -17,6 +17,7 @@ Portfolio: https://snackonevil.github.io/portfolio/
 
 - ### React Feedback App
   About:  
+  [CODE](https://github.com/Snackonevil/learn-react-feedback-app)
 
 - ### Weather Dashboard
   About:  
