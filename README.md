@@ -13,12 +13,14 @@ Portfolio: https://snackonevil.github.io/portfolio/
 
 ### Meteo-Melodies
 About:  
-[APP](https://acuson.github.io/meteo-melodies/) | [CODE](https://github.com/acuson/meteo-melodies)  
+[CODE](https://github.com/acuson/meteo-melodies) | [APP](https://acuson.github.io/meteo-melodies/) |
 
 
 ### React Feedback App
 
-### Team Profile Generator
+### Team Profile Generator  
+About:  
+[CODE](https://github.com/Snackonevil/team-profile-generator) | [Walkthrough](https://watch.screencastify.com/v/HYO1PCXDvRDGbtik8N2Q)
 
 ### README Generator
 
