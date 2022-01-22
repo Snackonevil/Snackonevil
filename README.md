@@ -1,7 +1,8 @@
 # Kevin Lacson
 
 - 👋 Hi, I’m @Snackonevil (It's an anagram of my name)
-- 🌱 I’m currently learning MERN stack
+- 🌱 I’m currently learning the MERN stack
+- :video_game: Dabbling in C# and Unity
 - 📫 How to reach me: lacsonky@gmail.com
 
 Portfolio: https://snackonevil.github.io/portfolio/
