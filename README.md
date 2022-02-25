@@ -15,12 +15,16 @@ Portfolio: https://snackonevil.github.io/klacson/
   About:  This app was the first group project in my coding camp at Georgia Tech.  Along with three others, we created a frontend application that queries Spotify playlists based on the weather of your location.  The OpenWeather API and the Spotify API were used.  This app exemplifies usage of third-party APIs using Fetch.  
   [CODE](https://github.com/acuson/meteo-melodies) | [APP](https://acuson.github.io/meteo-melodies/)
 
+- ### Modular  
+  About: Blog-like platform using Express, Node, MySQL, and Handlebars.js as a template engine.  I implemented local authentication using session data stored in a SQL database and deployed to Heroku.  
+  [CODE](https://github.com/Snackonevil/modular-a-tech-blog) | [APP](https://modular-tech-blog.herokuapp.com/login)
+
 - ### React Feedback App
   About:  This project was for my own learning to get a headstart on React.  It follows a class by Brad Traversy on Udemy.com and is a React App that leverages React's tools including state and context hooks.  
   [CODE](https://github.com/Snackonevil/learn-react-feedback-app)
 
 - ### Weather Dashboard
-  About:  
+  About:  Weather interface for current and 5-day forecast. Utilizes OpenWeather API and JS DOM manipulation.
   [CODE](https://github.com/Snackonevil/weatherdash) | [APP](https://snackonevil.github.io/weatherdash/)
   
 - ### Code Quiz
@@ -28,13 +32,13 @@ Portfolio: https://snackonevil.github.io/klacson/
   [CODE](https://github.com/Snackonevil/codequiz) | [APP](https://snackonevil.github.io/codequiz/)
   
 - ### Workday Planner
-  About:  
+  About:  Front-end app that leverages Moment's formatting to manipulate the DOM according to time of day.  Events are stored in browser session data.
   [CODE](https://github.com/Snackonevil/workdayplanner) | [APP](https://snackonevil.github.io/workdayplanner/)
   
   
   ### The following are command line applications:
 - ### Team Profile Generator  
-  About:  
+  About:  The focus of this app was constructing a command line interface using Inquirer to take user input and output to an HTML file.
   [CODE](https://github.com/Snackonevil/team-profile-generator) | [Walkthrough](https://watch.screencastify.com/v/HYO1PCXDvRDGbtik8N2Q)
 
 - ### Taking Care of Business
