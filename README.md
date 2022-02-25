@@ -1,5 +1,5 @@
 # Hello there,   
-# my name is Kevin.
+my name is Kevin.
 
 - 👋 My full name is Kevin Lacson or @Snackonevil (It's an anagram of my name)
 - 🌱 I’m currently learning the MERN stack and excelling at JavaScript
