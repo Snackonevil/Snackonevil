@@ -1,7 +1,7 @@
-# Kevin Lacson
+# Hello there, my name is Kevin.
 
-- 👋 Hi, I’m @Snackonevil (It's an anagram of my name)
-- 🌱 I’m currently learning the MERN stack and getting really sharp at JavaScript
+- 👋 My full name is Kevin Lacson or @Snackonevil (It's an anagram of my name)
+- 🌱 I’m currently learning the MERN stack and excelling at JavaScript
 - :video_game: Dabbling in C# and Unity
 - 📫 How to reach me: lacsonky@gmail.com
 
@@ -11,7 +11,7 @@ Portfolio: https://snackonevil.github.io/klacson/
 
 ## Some of My Projects
 
-- ### Meteo-Melodies
+- ### MeteoMelodies
   About:  This app was the first group project in my coding camp at Georgia Tech.  Along with three others, we created a frontend application that queries Spotify playlists based on the weather of your location.  The OpenWeather API and the Spotify API were used.  This app exemplifies usage of third-party APIs using Fetch.  
   [CODE](https://github.com/acuson/meteo-melodies) | [APP](https://acuson.github.io/meteo-melodies/)
 
