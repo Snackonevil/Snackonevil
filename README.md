@@ -23,9 +23,10 @@ Portfolio: https://snackonevil.github.io/klacson/
   About:  This project was for my own learning to get a headstart on React.  It follows a class by Brad Traversy on Udemy.com and is a React App that leverages React's tools including useState and useContext.  
   [CODE](https://github.com/Snackonevil/learn-react-feedback-app)
 
-- ### Weather Dashboard
-  About:  Weather interface for current and 5-day forecast. Utilizes OpenWeather API and JS DOM manipulation.
-  [CODE](https://github.com/Snackonevil/weatherdash) | [APP](https://snackonevil.github.io/weatherdash/)
+- ### Weather Dashboard  
+  About:  Weather interface for current and 5-day forecast. Utilizes OpenWeather API and JS DOM manipulation.  
+  Rebuilding in React.
+  [CODE](https://github.com/Snackonevil/weatherdash) | [APP](https://snackonevil.github.io/weatherdash/)  
   
 - ### Code Quiz
   About:  This is a client-side app that scores a user on their basic code knowledge.  This app implements DOM manipulation using JavaScript.  
