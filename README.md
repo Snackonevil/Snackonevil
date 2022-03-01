@@ -34,7 +34,7 @@ Portfolio: https://snackonevil.github.io/klacson/
   [CODE](https://github.com/Snackonevil/codequiz) | [APP](https://snackonevil.github.io/codequiz/)
   
 - ### Workday Planner
-  About:  Front-end app that leverages Moment's formatting to manipulate the DOM according to time of day.  Events are stored in browser session data.
+  About:  Front-end app that leverages Moment's formatting to manipulate the DOM according to time of day.  Events are stored in browser session data.  
   [CODE](https://github.com/Snackonevil/workdayplanner) | [APP](https://snackonevil.github.io/workdayplanner/)
   
   
