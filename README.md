@@ -40,7 +40,7 @@ Portfolio: https://snackonevil.github.io/klacson/
   
   ### The following are command line applications:
 - ### Team Profile Generator  
-  About:  The focus of this app was constructing a command line interface using Inquirer to take user input and output to an HTML file.
+  About:  The focus of this app was constructing a command line interface using Inquirer to take user input and output to an HTML file.  
   [CODE](https://github.com/Snackonevil/team-profile-generator) | [Walkthrough](https://watch.screencastify.com/v/HYO1PCXDvRDGbtik8N2Q)
 
 - ### Taking Care of Business
