@@ -25,8 +25,8 @@ Portfolio: https://snackonevil.github.io/klacson/
 
 - ### Weather Dashboard  
   About:  Weather interface for current and 5-day forecast. Utilizes OpenWeather API and JS DOM manipulation.  
-  Rebuilding in React.
   [CODE](https://github.com/Snackonevil/weatherdash) | [APP](https://snackonevil.github.io/weatherdash/)  
+  Rebuilt with React: [CODE](https://github.com/Snackonevil/weatherdash-react-rebuild) | [APP](https://snackonevil.github.io/weatherdash-react-rebuild/)  
   
 - ### Code Quiz
   About:  This is a client-side app that scores a user on their basic code knowledge.  This app implements DOM manipulation using JavaScript.  
