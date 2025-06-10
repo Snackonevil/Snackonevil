@@ -5,11 +5,9 @@
 - :video_game: Dabbling in C# and Unity
 - 📫 How to reach me: lacsonky@gmail.com
 
-Portfolio: https://snackonevil.github.io/klacson/
-
 ---
 
-## Some of My Projects
+## Some of My (Javascript) Projects
 
 - ### MeteoMelodies
   About:  This app was the first group project in my coding camp at Georgia Tech.  Along with three others, we created a frontend application that queries Spotify playlists based on the weather of your location.  The OpenWeather API and the Spotify API were used.  This app exemplifies usage of third-party APIs using Fetch.  
