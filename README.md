@@ -6,7 +6,7 @@
 ---
 
 ## Some of My (Javascript) Projects
-(these projects were built during acquiring a MERN stack certificate at Georgia Tech in 2022, most if not all now depracated)
+(these projects were built during a MERN stack certificate at Georgia Tech in 2022, most if not all now depracated. Certificate received.)
 
 - ### MeteoMelodies
   About:  This app was the first group project in my coding camp at Georgia Tech.  Along with three others, we created a frontend application that queries Spotify playlists based on the weather of your location.  The OpenWeather API and the Spotify API were used.  This app exemplifies usage of third-party APIs using Fetch.  
